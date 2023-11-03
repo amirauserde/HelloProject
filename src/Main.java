@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
+        Hello toWorld = new Hello("World");
+        Hello Amir = new Hello("Amir");
+        Hello Danial = new Hello("Danial");
     }
 }
